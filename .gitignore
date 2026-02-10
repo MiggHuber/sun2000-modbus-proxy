@@ -1,0 +1,12 @@
+# Build-Verzeichnisse (Arduino / ESP)
+build/
+**/build/
+
+# Arduino / ESP Build-Artefakte
+*.bin
+*.elf
+*.map
+*.hex
+
+# Secrets
+include/secrets.h
