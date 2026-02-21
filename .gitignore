@@ -10,3 +10,18 @@ build/
 
 # Secrets
 include/secrets.h
+
+.pio/
+.vscode/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Logs
+*.log
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
