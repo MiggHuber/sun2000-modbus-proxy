@@ -10,8 +10,6 @@ build/
 
 # Secrets
 include/secrets.h
-
-.pio/
 .vscode/
 
 # PlatformIO
